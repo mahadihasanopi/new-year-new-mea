@@ -1,0 +1,174 @@
+.btn-primary{
+    color: azure;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+   height: 64px; 
+   border-radius: 5px;
+   background: deeppink;
+}
+
+/* banner 1  */
+
+
+.banner1{
+    display: flex;
+   align-items: center;
+ border-radius: 0;
+ background-color: #F3F3F3;
+}
+
+
+
+.first-text{
+    text-align: center;
+    
+   
+}
+.hading-first{
+    font-weight: 600;
+    font-size: 65px;
+}
+.banner-discription{
+
+}
+
+/* banner 2 */
+
+.banner2{
+    display: flex;
+    align-items: center;
+  border-radius: 0;
+  text-align: center;
+}
+
+second-text{
+    text-align: center;
+}
+
+
+
+.hading-second{
+    font-weight: 400;
+    font-size: 45px;
+}
+
+.second-p{
+    font-weight: 40;
+    font-size: 4px;
+}
+
+/* myplanssection */
+
+.myplanssection{
+
+}
+
+.section-title{
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 50px;
+    
+    }
+
+    .skills-container{
+
+        display: flex;
+        gap: 24px;
+      
+     
+        
+    }
+    .skill{
+    
+       
+        
+        border-radius: 5px;
+        padding: 30px;
+        padding: 100px;
+    
+    }
+    .skill-title{
+    
+        font-weight: 700;
+        font-size: 20px;
+      margin-top: 30px;
+      margin-bottom: 20px;
+    
+    }
+    
+    .skill-discription{
+    
+    
+    }    
+
+    /* section3 */
+
+    .banner-mindset{
+        position: relative;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .mindset-heading{
+        position: absolute;
+        top: 30%;
+        width: 80%;
+        margin-left: 100px;
+        color: #F3F3F3;
+      
+    }
+
+    .btn-mindset{
+        position:absolute;
+       top: 60%;
+text-align: right;
+       padding: 160 ; 
+      
+
+       color: azure;
+       font-weight: 700;
+       font-size: 20px;
+       border: 0;
+       padding: 18px 35px;
+      height: 64px; 
+      border-radius: 5px;
+      background: deeppink;
+      margin-left: 100px;
+   
+
+    }
+
+    /* Future Section */
+
+    .future-section{
+        display: flex;
+       
+        padding: 100px 170px;
+     
+      
+        gap: 230px;
+background-color: black;
+color: aliceblue;
+    }
+
+    .future-section .left-future{
+        text-align: left;
+    }
+
+   .class-img{
+    display: flex;
+   }
+   .Subscribe-title{
+    text-align: left;
+   }
+
+   .input [type="email"]{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+    height: 64px;
+   }
